@@ -1,5 +1,3 @@
-# Accident-Detection-System
-
 # *Accident Detection System with Deep Learning*
 
 ### *Introduction*
